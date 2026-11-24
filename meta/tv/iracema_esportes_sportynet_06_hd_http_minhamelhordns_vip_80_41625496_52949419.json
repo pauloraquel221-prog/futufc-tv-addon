@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "iracema_esportes_sportynet_06_hd_http_minhamelhordns_vip_80_41625496_52949419",
+    "type": "tv",
+    "name": "SportyNet 06 HD¹",
+    "poster": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+    "background": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+    "logo": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+    "posterShape": "square",
+    "description": "futufc-tv ao vivo",
+    "genres": [
+      "Canais Esportivos"
+    ]
+  }
+}

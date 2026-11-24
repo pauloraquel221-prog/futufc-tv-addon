@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "iracema_esportes_eurosport_01_hd_http_minhamelhordns_vip_80_41625496_52949419",
+    "type": "tv",
+    "name": "Eurosport 01 HD",
+    "poster": "http://top-logos.xyz/pt/eurosport1.png",
+    "background": "http://top-logos.xyz/pt/eurosport1.png",
+    "logo": "http://top-logos.xyz/pt/eurosport1.png",
+    "posterShape": "square",
+    "description": "futufc-tv ao vivo",
+    "genres": [
+      "Canais Esportivos"
+    ]
+  }
+}

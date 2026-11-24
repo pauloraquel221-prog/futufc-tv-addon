@@ -5,6 +5,7 @@
   "description": "futufc-tv ao vivo",
   "resources": [
     "catalog",
+    "meta",
     "stream"
   ],
   "types": [

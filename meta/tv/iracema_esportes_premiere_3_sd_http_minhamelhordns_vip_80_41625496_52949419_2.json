@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "iracema_esportes_premiere_3_sd_http_minhamelhordns_vip_80_41625496_52949419_2",
+    "type": "tv",
+    "name": "PREMIERE 3 SD",
+    "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+    "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+    "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+    "posterShape": "square",
+    "description": "futufc-tv ao vivo",
+    "genres": [
+      "Futebol"
+    ]
+  }
+}

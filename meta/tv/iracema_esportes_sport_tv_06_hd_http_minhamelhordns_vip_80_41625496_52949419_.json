@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "iracema_esportes_sport_tv_06_hd_http_minhamelhordns_vip_80_41625496_52949419_",
+    "type": "tv",
+    "name": "Sport TV 06 HD",
+    "poster": "http://top-logos.xyz/pt/sportv6.png",
+    "background": "http://top-logos.xyz/pt/sportv6.png",
+    "logo": "http://top-logos.xyz/pt/sportv6.png",
+    "posterShape": "square",
+    "description": "futufc-tv ao vivo",
+    "genres": [
+      "Futebol"
+    ]
+  }
+}

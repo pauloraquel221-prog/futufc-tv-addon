@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "iracema_esportes_espn_1_sd_http_minhamelhordns_vip_80_41625496_52949419_43792",
+    "type": "tv",
+    "name": "ESPN 1 SD",
+    "poster": "https://img.onetv.plus/icones_channels/ESPN_HD.png",
+    "background": "https://img.onetv.plus/icones_channels/ESPN_HD.png",
+    "logo": "https://img.onetv.plus/icones_channels/ESPN_HD.png",
+    "posterShape": "square",
+    "description": "futufc-tv ao vivo",
+    "genres": [
+      "Canais Esportivos"
+    ]
+  }
+}

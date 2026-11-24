@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "iracema_esportes_dazn_05_hd_http_minhamelhordns_vip_80_41625496_52949419_2345",
+    "type": "tv",
+    "name": "DAZN 05 HD",
+    "poster": "https://img.onetv.plus/icones_channels/DAZN_5.png",
+    "background": "https://img.onetv.plus/icones_channels/DAZN_5.png",
+    "logo": "https://img.onetv.plus/icones_channels/DAZN_5.png",
+    "posterShape": "square",
+    "description": "futufc-tv ao vivo",
+    "genres": [
+      "Canais Esportivos"
+    ]
+  }
+}

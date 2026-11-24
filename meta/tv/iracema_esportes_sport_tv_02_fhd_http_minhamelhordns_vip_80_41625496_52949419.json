@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "iracema_esportes_sport_tv_02_fhd_http_minhamelhordns_vip_80_41625496_52949419",
+    "type": "tv",
+    "name": "Sport TV 02 FHD",
+    "poster": "http://top-logos.xyz/pt/sportv2.png",
+    "background": "http://top-logos.xyz/pt/sportv2.png",
+    "logo": "http://top-logos.xyz/pt/sportv2.png",
+    "posterShape": "square",
+    "description": "futufc-tv ao vivo",
+    "genres": [
+      "Futebol"
+    ]
+  }
+}

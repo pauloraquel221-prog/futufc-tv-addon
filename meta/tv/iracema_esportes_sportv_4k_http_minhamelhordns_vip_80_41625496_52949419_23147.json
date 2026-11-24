@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "iracema_esportes_sportv_4k_http_minhamelhordns_vip_80_41625496_52949419_23147",
+    "type": "tv",
+    "name": "SporTV 4K",
+    "poster": "https://img.onetv.plus/icones_channels/SporTV_HD.png",
+    "background": "https://img.onetv.plus/icones_channels/SporTV_HD.png",
+    "logo": "https://img.onetv.plus/icones_channels/SporTV_HD.png",
+    "posterShape": "square",
+    "description": "futufc-tv ao vivo",
+    "genres": [
+      "Canais Esportivos"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "iracema_esportes_fuel_tv_fhd_http_minhamelhordns_vip_80_41625496_52949419_205",
+    "type": "tv",
+    "name": "FUEL TV FHD",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLHCIJXYPSPASCfSb8PQmROqQDpsuumt61Q&s",
+    "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLHCIJXYPSPASCfSb8PQmROqQDpsuumt61Q&s",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLHCIJXYPSPASCfSb8PQmROqQDpsuumt61Q&s",
+    "posterShape": "square",
+    "description": "futufc-tv ao vivo",
+    "genres": [
+      "Canais Esportivos"
+    ]
+  }
+}

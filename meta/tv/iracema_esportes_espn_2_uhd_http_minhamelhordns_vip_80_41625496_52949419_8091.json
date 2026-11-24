@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "iracema_esportes_espn_2_uhd_http_minhamelhordns_vip_80_41625496_52949419_8091",
+    "type": "tv",
+    "name": "ESPN 2 UHD",
+    "poster": "https://img.onetv.plus/icones_channels/ESPN_2_HD.png",
+    "background": "https://img.onetv.plus/icones_channels/ESPN_2_HD.png",
+    "logo": "https://img.onetv.plus/icones_channels/ESPN_2_HD.png",
+    "posterShape": "square",
+    "description": "futufc-tv ao vivo",
+    "genres": [
+      "Canais Esportivos"
+    ]
+  }
+}
