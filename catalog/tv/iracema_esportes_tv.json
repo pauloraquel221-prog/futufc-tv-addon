@@ -1,0 +1,4177 @@
+{
+  "metas": [
+    {
+      "id": "iracema_esportes_combate_4k_http_minhamelhordns_vip_80_41625496_52949419_2314",
+      "type": "tv",
+      "name": "COMBATE 4K",
+      "poster": "https://img.onetv.plus/icones_channels/COMBATE_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/COMBATE_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/COMBATE_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "UFC / Lutas"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_4k_http_minhamelhordns_vip_80_41625496_52949419_231459",
+      "type": "tv",
+      "name": "ESPN 4K",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_clubes_4k_http_minhamelhordns_vip_80_41625496_52949",
+      "type": "tv",
+      "name": "PREMIERE CLUBES 4K",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportv_4k_http_minhamelhordns_vip_80_41625496_52949419_23147",
+      "type": "tv",
+      "name": "SporTV 4K",
+      "poster": "https://img.onetv.plus/icones_channels/SporTV_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/SporTV_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/SporTV_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_bandsports_sd_http_minhamelhordns_vip_80_41625496_52949419_2",
+      "type": "tv",
+      "name": "BandSports SD",
+      "poster": "https://img.onetv.plus/icones_channels/BAND_Sports_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/BAND_Sports_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/BAND_Sports_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_bandsports_hd_http_minhamelhordns_vip_80_41625496_52949419_2",
+      "type": "tv",
+      "name": "BandSports HD",
+      "poster": "https://img.onetv.plus/icones_channels/BAND_Sports_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/BAND_Sports_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/BAND_Sports_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_bandsports_fhd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "BandSports FHD",
+      "poster": "https://img.onetv.plus/icones_channels/BAND_Sports_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/BAND_Sports_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/BAND_Sports_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_xsports_sd_http_minhamelhordns_vip_80_41625496_52949419_8289",
+      "type": "tv",
+      "name": "Xsports SD",
+      "poster": "https://www.areavip.com.br/wp-content/uploads/2025/04/x-sports-1200x675.jpg",
+      "background": "https://www.areavip.com.br/wp-content/uploads/2025/04/x-sports-1200x675.jpg",
+      "logo": "https://www.areavip.com.br/wp-content/uploads/2025/04/x-sports-1200x675.jpg",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_xsports_hd_http_minhamelhordns_vip_80_41625496_52949419_8289",
+      "type": "tv",
+      "name": "Xsports HD",
+      "poster": "https://www.areavip.com.br/wp-content/uploads/2025/04/x-sports-1200x675.jpg",
+      "background": "https://www.areavip.com.br/wp-content/uploads/2025/04/x-sports-1200x675.jpg",
+      "logo": "https://www.areavip.com.br/wp-content/uploads/2025/04/x-sports-1200x675.jpg",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_xsports_fhd_http_minhamelhordns_vip_80_41625496_52949419_828",
+      "type": "tv",
+      "name": "Xsports FHD",
+      "poster": "https://www.areavip.com.br/wp-content/uploads/2025/04/x-sports-1200x675.jpg",
+      "background": "https://www.areavip.com.br/wp-content/uploads/2025/04/x-sports-1200x675.jpg",
+      "logo": "https://www.areavip.com.br/wp-content/uploads/2025/04/x-sports-1200x675.jpg",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_ge_tv_hd_http_minhamelhordns_vip_80_41625496_52949419_160880",
+      "type": "tv",
+      "name": "GE TV HD",
+      "poster": "https://s2.glbimg.com/K9UcXFImxDOqgbOJEn_yT-YCEV4=/285x285/https://s2.glbimg.com/gpHRWkVEklSy9sLihfB1e7s44zE=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/o/l/K09AXlQK2RbJTlBMlDMA/logo-ge-fast.png",
+      "background": "https://s2.glbimg.com/K9UcXFImxDOqgbOJEn_yT-YCEV4=/285x285/https://s2.glbimg.com/gpHRWkVEklSy9sLihfB1e7s44zE=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/o/l/K09AXlQK2RbJTlBMlDMA/logo-ge-fast.png",
+      "logo": "https://s2.glbimg.com/K9UcXFImxDOqgbOJEn_yT-YCEV4=/285x285/https://s2.glbimg.com/gpHRWkVEklSy9sLihfB1e7s44zE=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/o/l/K09AXlQK2RbJTlBMlDMA/logo-ge-fast.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_ge_tv_fhd_http_minhamelhordns_vip_80_41625496_52949419_23286",
+      "type": "tv",
+      "name": "GE TV FHD",
+      "poster": "https://s2.glbimg.com/K9UcXFImxDOqgbOJEn_yT-YCEV4=/285x285/https://s2.glbimg.com/gpHRWkVEklSy9sLihfB1e7s44zE=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/o/l/K09AXlQK2RbJTlBMlDMA/logo-ge-fast.png",
+      "background": "https://s2.glbimg.com/K9UcXFImxDOqgbOJEn_yT-YCEV4=/285x285/https://s2.glbimg.com/gpHRWkVEklSy9sLihfB1e7s44zE=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/o/l/K09AXlQK2RbJTlBMlDMA/logo-ge-fast.png",
+      "logo": "https://s2.glbimg.com/K9UcXFImxDOqgbOJEn_yT-YCEV4=/285x285/https://s2.glbimg.com/gpHRWkVEklSy9sLihfB1e7s44zE=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/o/l/K09AXlQK2RbJTlBMlDMA/logo-ge-fast.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_ge_tv_uhd_http_minhamelhordns_vip_80_41625496_52949419_17132",
+      "type": "tv",
+      "name": "GE TV UHD",
+      "poster": "https://s2.glbimg.com/K9UcXFImxDOqgbOJEn_yT-YCEV4=/285x285/https://s2.glbimg.com/gpHRWkVEklSy9sLihfB1e7s44zE=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/o/l/K09AXlQK2RbJTlBMlDMA/logo-ge-fast.png",
+      "background": "https://s2.glbimg.com/K9UcXFImxDOqgbOJEn_yT-YCEV4=/285x285/https://s2.glbimg.com/gpHRWkVEklSy9sLihfB1e7s44zE=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/o/l/K09AXlQK2RbJTlBMlDMA/logo-ge-fast.png",
+      "logo": "https://s2.glbimg.com/K9UcXFImxDOqgbOJEn_yT-YCEV4=/285x285/https://s2.glbimg.com/gpHRWkVEklSy9sLihfB1e7s44zE=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/o/l/K09AXlQK2RbJTlBMlDMA/logo-ge-fast.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nsports_sd_http_minhamelhordns_vip_80_41625496_52949419_1772",
+      "type": "tv",
+      "name": "NSports SD",
+      "poster": "https://img.onetv.plus/icones_channels/TV_NSPORTS_1.png",
+      "background": "https://img.onetv.plus/icones_channels/TV_NSPORTS_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/TV_NSPORTS_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nsports_hd_http_minhamelhordns_vip_80_41625496_52949419_2331",
+      "type": "tv",
+      "name": "NSports HD",
+      "poster": "https://img.onetv.plus/icones_channels/TV_NSPORTS_1.png",
+      "background": "https://img.onetv.plus/icones_channels/TV_NSPORTS_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/TV_NSPORTS_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nsports_fhd_http_minhamelhordns_vip_80_41625496_52949419_232",
+      "type": "tv",
+      "name": "NSports FHD",
+      "poster": "https://img.onetv.plus/icones_channels/TV_NSPORTS_1.png",
+      "background": "https://img.onetv.plus/icones_channels/TV_NSPORTS_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/TV_NSPORTS_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_eurosport_1_hd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "EUROSPORT 1 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/EUROSPORT_1.png",
+      "background": "https://img.onetv.plus/icones_channels/EUROSPORT_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/EUROSPORT_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_eurosport_1_hd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "EUROSPORT 1 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/EUROSPORT_1.png",
+      "background": "https://img.onetv.plus/icones_channels/EUROSPORT_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/EUROSPORT_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_eurosport_2_hd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "EUROSPORT 2 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/EUROSPORT_2.png",
+      "background": "https://img.onetv.plus/icones_channels/EUROSPORT_2.png",
+      "logo": "https://img.onetv.plus/icones_channels/EUROSPORT_2.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportv_1_sd_http_minhamelhordns_vip_80_41625496_52949419_236",
+      "type": "tv",
+      "name": "SporTV 1 SD",
+      "poster": "https://img.onetv.plus/icones_channels/SporTV_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/SporTV_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/SporTV_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportv_1_hd_http_minhamelhordns_vip_80_41625496_52949419_236",
+      "type": "tv",
+      "name": "SporTV 1 HD",
+      "poster": "https://img.onetv.plus/icones_channels/SporTV_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/SporTV_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/SporTV_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportv_1_fhd_http_minhamelhordns_vip_80_41625496_52949419_23",
+      "type": "tv",
+      "name": "SporTV 1 FHD",
+      "poster": "https://img.onetv.plus/icones_channels/SporTV_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/SporTV_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/SporTV_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportv_1_uhd_http_minhamelhordns_vip_80_41625496_52949419_80",
+      "type": "tv",
+      "name": "SporTV 1 UHD",
+      "poster": "https://img.onetv.plus/icones_channels/SporTV_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/SporTV_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/SporTV_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportv_2_sd_http_minhamelhordns_vip_80_41625496_52949419_236",
+      "type": "tv",
+      "name": "SporTV 2 SD",
+      "poster": "https://img.onetv.plus/icones_channels/SporTV2_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/SporTV2_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/SporTV2_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportv_2_hd_http_minhamelhordns_vip_80_41625496_52949419_236",
+      "type": "tv",
+      "name": "SporTV 2 HD",
+      "poster": "https://img.onetv.plus/icones_channels/SporTV2_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/SporTV2_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/SporTV2_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportv_2_fhd_http_minhamelhordns_vip_80_41625496_52949419_23",
+      "type": "tv",
+      "name": "SporTV 2 FHD",
+      "poster": "https://img.onetv.plus/icones_channels/SporTV2_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/SporTV2_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/SporTV2_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportv_2_uhd_http_minhamelhordns_vip_80_41625496_52949419_80",
+      "type": "tv",
+      "name": "SporTV 2 UHD",
+      "poster": "https://img.onetv.plus/icones_channels/SporTV2_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/SporTV2_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/SporTV2_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportv_3_sd_http_minhamelhordns_vip_80_41625496_52949419_236",
+      "type": "tv",
+      "name": "SporTV 3 SD",
+      "poster": "https://img.onetv.plus/icones_channels/SporTV3_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/SporTV3_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/SporTV3_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportv_3_hd_http_minhamelhordns_vip_80_41625496_52949419_236",
+      "type": "tv",
+      "name": "SporTV 3 HD",
+      "poster": "https://img.onetv.plus/icones_channels/SporTV3_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/SporTV3_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/SporTV3_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportv_3_fhd_http_minhamelhordns_vip_80_41625496_52949419_23",
+      "type": "tv",
+      "name": "SporTV 3 FHD",
+      "poster": "https://img.onetv.plus/icones_channels/SporTV3_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/SporTV3_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/SporTV3_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportv_3_uhd_http_minhamelhordns_vip_80_41625496_52949419_80",
+      "type": "tv",
+      "name": "SporTV 3 UHD",
+      "poster": "https://img.onetv.plus/icones_channels/SporTV2_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/SporTV2_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/SporTV2_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_1_sd_http_minhamelhordns_vip_80_41625496_52949419_43792",
+      "type": "tv",
+      "name": "ESPN 1 SD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_1_hd_http_minhamelhordns_vip_80_41625496_52949419_43792",
+      "type": "tv",
+      "name": "ESPN 1 HD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_1_fhd_http_minhamelhordns_vip_80_41625496_52949419_4379",
+      "type": "tv",
+      "name": "ESPN 1 FHD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_1_uhd_http_minhamelhordns_vip_80_41625496_52949419_8091",
+      "type": "tv",
+      "name": "ESPN 1 UHD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_2_sd_http_minhamelhordns_vip_80_41625496_52949419_43792",
+      "type": "tv",
+      "name": "ESPN 2 SD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_2_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_2_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_2_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_2_hd_http_minhamelhordns_vip_80_41625496_52949419_43792",
+      "type": "tv",
+      "name": "ESPN 2 HD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_2_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_2_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_2_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_2_fhd_http_minhamelhordns_vip_80_41625496_52949419_4379",
+      "type": "tv",
+      "name": "ESPN 2 FHD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_2_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_2_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_2_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_2_uhd_http_minhamelhordns_vip_80_41625496_52949419_8091",
+      "type": "tv",
+      "name": "ESPN 2 UHD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_2_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_2_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_2_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_3_sd_http_minhamelhordns_vip_80_41625496_52949419_43793",
+      "type": "tv",
+      "name": "ESPN 3 SD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_3_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_3_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_3_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_3_hd_http_minhamelhordns_vip_80_41625496_52949419_43793",
+      "type": "tv",
+      "name": "ESPN 3 HD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_3_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_3_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_3_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_3_fhd_http_minhamelhordns_vip_80_41625496_52949419_4379",
+      "type": "tv",
+      "name": "ESPN 3 FHD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_3_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_3_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_3_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_3_uhd_http_minhamelhordns_vip_80_41625496_52949419_8091",
+      "type": "tv",
+      "name": "ESPN 3 UHD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_3_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_3_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_3_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_4_sd_http_minhamelhordns_vip_80_41625496_52949419_43794",
+      "type": "tv",
+      "name": "ESPN 4 SD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_4_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_4_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_4_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_4_hd_http_minhamelhordns_vip_80_41625496_52949419_43793",
+      "type": "tv",
+      "name": "ESPN 4 HD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_4_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_4_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_4_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_4_fhd_http_minhamelhordns_vip_80_41625496_52949419_4379",
+      "type": "tv",
+      "name": "ESPN 4 FHD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_4_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_4_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_4_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_4_uhd_http_minhamelhordns_vip_80_41625496_52949419_8091",
+      "type": "tv",
+      "name": "ESPN 4 UHD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_4_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_4_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_4_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_5_sd_http_minhamelhordns_vip_80_41625496_52949419_43794",
+      "type": "tv",
+      "name": "ESPN 5 SD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_5_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_5_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_5_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_5_hd_http_minhamelhordns_vip_80_41625496_52949419_43794",
+      "type": "tv",
+      "name": "ESPN 5 HD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_5_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_5_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_5_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_5_fhd_http_minhamelhordns_vip_80_41625496_52949419_4379",
+      "type": "tv",
+      "name": "ESPN 5 FHD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_5_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_5_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_5_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_5_uhd_http_minhamelhordns_vip_80_41625496_52949419_8092",
+      "type": "tv",
+      "name": "ESPN 5 UHD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_5_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_5_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_5_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_6_sd_http_minhamelhordns_vip_80_41625496_52949419_43795",
+      "type": "tv",
+      "name": "ESPN 6 SD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_6_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_6_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_6_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_6_hd_http_minhamelhordns_vip_80_41625496_52949419_43795",
+      "type": "tv",
+      "name": "ESPN 6 HD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_6_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_6_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_6_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_6_fhd_http_minhamelhordns_vip_80_41625496_52949419_4379",
+      "type": "tv",
+      "name": "ESPN 6 FHD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_6_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_6_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_6_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_espn_6_uhd_http_minhamelhordns_vip_80_41625496_52949419_8091",
+      "type": "tv",
+      "name": "ESPN 6 UHD",
+      "poster": "https://img.onetv.plus/icones_channels/ESPN_6_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/ESPN_6_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/ESPN_6_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_clubes_sd_http_minhamelhordns_vip_80_41625496_52949",
+      "type": "tv",
+      "name": "PREMIERE CLUBES SD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_clubes_hd_http_minhamelhordns_vip_80_41625496_52949",
+      "type": "tv",
+      "name": "PREMIERE CLUBES HD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_clubes_fhd_http_minhamelhordns_vip_80_41625496_5294",
+      "type": "tv",
+      "name": "PREMIERE CLUBES FHD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_clubes_4k_http_minhamelhordns_vip_80_41625496_52949",
+      "type": "tv",
+      "name": "PREMIERE CLUBES 4K",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_2_sd_http_minhamelhordns_vip_80_41625496_52949419_2",
+      "type": "tv",
+      "name": "PREMIERE 2 SD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_2_hd_http_minhamelhordns_vip_80_41625496_52949419_2",
+      "type": "tv",
+      "name": "PREMIERE 2 HD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_2_fhd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "PREMIERE 2 FHD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_2_uhd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "PREMIERE 2 UHD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_3_sd_http_minhamelhordns_vip_80_41625496_52949419_2",
+      "type": "tv",
+      "name": "PREMIERE 3 SD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_3_hd_http_minhamelhordns_vip_80_41625496_52949419_2",
+      "type": "tv",
+      "name": "PREMIERE 3 HD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_3_fhd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "PREMIERE 3 FHD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_3_uhd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "PREMIERE 3 UHD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_4_sd_http_minhamelhordns_vip_80_41625496_52949419_2",
+      "type": "tv",
+      "name": "PREMIERE 4 SD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_4_hd_http_minhamelhordns_vip_80_41625496_52949419_2",
+      "type": "tv",
+      "name": "PREMIERE 4 HD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_4_fhd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "PREMIERE 4 FHD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_4_uhd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "PREMIERE 4 UHD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_5_sd_http_minhamelhordns_vip_80_41625496_52949419_2",
+      "type": "tv",
+      "name": "PREMIERE 5 SD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_5_hd_http_minhamelhordns_vip_80_41625496_52949419_2",
+      "type": "tv",
+      "name": "PREMIERE 5 HD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_5_fhd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "PREMIERE 5 FHD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_5_uhd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "PREMIERE 5 UHD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_6_sd_http_minhamelhordns_vip_80_41625496_52949419_2",
+      "type": "tv",
+      "name": "PREMIERE 6 SD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_6_hd_http_minhamelhordns_vip_80_41625496_52949419_2",
+      "type": "tv",
+      "name": "PREMIERE 6 HD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_6_fhd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "PREMIERE 6 FHD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_6_uhd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "PREMIERE 6 UHD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_7_sd_http_minhamelhordns_vip_80_41625496_52949419_2",
+      "type": "tv",
+      "name": "PREMIERE 7 SD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_7_hd_http_minhamelhordns_vip_80_41625496_52949419_2",
+      "type": "tv",
+      "name": "PREMIERE 7 HD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_7_fhd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "PREMIERE 7 FHD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_7_uhd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "PREMIERE 7 UHD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_01_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 01 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_01_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 01 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_01_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 01 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_01_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 01 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_02_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 02 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_02_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 02 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_02_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 02 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_02_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 02 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_03_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 03 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_03_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 03 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_03_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 03 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_04_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 04 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_04_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 04 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_04_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 04 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_05_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 05 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_05_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 05 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_06_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 06 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_07_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 07 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_08_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 08 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_09_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 09 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_10_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 10 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_12_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 12 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_13_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 13 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_prime_video_amazon_14_hd_http_minhamelhordns_vip_80_41625496",
+      "type": "tv",
+      "name": "Prime Video AMAZON 14 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "background": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "logo": "https://img.onetv.plus/icones_channels/Amazon_Prime_Video.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_caze_tv_1_hd_http_minhamelhordns_vip_80_41625496_52949419_17",
+      "type": "tv",
+      "name": "Cazé TV 1 HD¹",
+      "poster": "http://32q0d.xyz/images/caze.png",
+      "background": "http://32q0d.xyz/images/caze.png",
+      "logo": "http://32q0d.xyz/images/caze.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_caze_tv_1_hd_http_minhamelhordns_vip_80_41625496_52949419_17",
+      "type": "tv",
+      "name": "Cazé TV 1 HD²",
+      "poster": "http://32q0d.xyz/images/caze.png",
+      "background": "http://32q0d.xyz/images/caze.png",
+      "logo": "http://32q0d.xyz/images/caze.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_caze_tv_1_hd_http_minhamelhordns_vip_80_41625496_52949419_17",
+      "type": "tv",
+      "name": "Cazé TV 1 HD³",
+      "poster": "http://32q0d.xyz/images/caze.png",
+      "background": "http://32q0d.xyz/images/caze.png",
+      "logo": "http://32q0d.xyz/images/caze.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_caze_tv_1_hd_http_minhamelhordns_vip_80_41625496_52949419_17",
+      "type": "tv",
+      "name": "Cazé TV 1 HD⁴",
+      "poster": "http://32q0d.xyz/images/caze.png",
+      "background": "http://32q0d.xyz/images/caze.png",
+      "logo": "http://32q0d.xyz/images/caze.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_caze_tv_2_hd_http_minhamelhordns_vip_80_41625496_52949419_17",
+      "type": "tv",
+      "name": "Cazé TV 2 HD¹",
+      "poster": "http://32q0d.xyz/images/caze.png",
+      "background": "http://32q0d.xyz/images/caze.png",
+      "logo": "http://32q0d.xyz/images/caze.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_caze_tv_2_hd_http_minhamelhordns_vip_80_41625496_52949419_17",
+      "type": "tv",
+      "name": "Cazé TV 2 HD²",
+      "poster": "http://32q0d.xyz/images/caze.png",
+      "background": "http://32q0d.xyz/images/caze.png",
+      "logo": "http://32q0d.xyz/images/caze.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_caze_tv_2_hd_http_minhamelhordns_vip_80_41625496_52949419_17",
+      "type": "tv",
+      "name": "Cazé TV 2 HD³",
+      "poster": "http://32q0d.xyz/images/caze.png",
+      "background": "http://32q0d.xyz/images/caze.png",
+      "logo": "http://32q0d.xyz/images/caze.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_caze_tv_2_hd_http_minhamelhordns_vip_80_41625496_52949419_17",
+      "type": "tv",
+      "name": "Cazé TV 2 HD⁴",
+      "poster": "http://32q0d.xyz/images/caze.png",
+      "background": "http://32q0d.xyz/images/caze.png",
+      "logo": "http://32q0d.xyz/images/caze.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_caze_tv_3_hd_http_minhamelhordns_vip_80_41625496_52949419_17",
+      "type": "tv",
+      "name": "Cazé TV 3 HD¹",
+      "poster": "http://32q0d.xyz/images/caze.png",
+      "background": "http://32q0d.xyz/images/caze.png",
+      "logo": "http://32q0d.xyz/images/caze.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_caze_tv_3_hd_http_minhamelhordns_vip_80_41625496_52949419_17",
+      "type": "tv",
+      "name": "Cazé TV 3 HD²",
+      "poster": "http://32q0d.xyz/images/caze.png",
+      "background": "http://32q0d.xyz/images/caze.png",
+      "logo": "http://32q0d.xyz/images/caze.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_caze_tv_3_hd_http_minhamelhordns_vip_80_41625496_52949419_17",
+      "type": "tv",
+      "name": "Cazé TV 3 HD³",
+      "poster": "http://32q0d.xyz/images/caze.png",
+      "background": "http://32q0d.xyz/images/caze.png",
+      "logo": "http://32q0d.xyz/images/caze.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_caze_tv_3_hd_http_minhamelhordns_vip_80_41625496_52949419_17",
+      "type": "tv",
+      "name": "Cazé TV 3 HD⁴",
+      "poster": "http://32q0d.xyz/images/caze.png",
+      "background": "http://32q0d.xyz/images/caze.png",
+      "logo": "http://32q0d.xyz/images/caze.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_caze_tv_4_hd_http_minhamelhordns_vip_80_41625496_52949419_17",
+      "type": "tv",
+      "name": "Cazé TV 4 HD¹",
+      "poster": "http://32q0d.xyz/images/caze.png",
+      "background": "http://32q0d.xyz/images/caze.png",
+      "logo": "http://32q0d.xyz/images/caze.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_caze_tv_4_hd_http_minhamelhordns_vip_80_41625496_52949419_17",
+      "type": "tv",
+      "name": "Cazé TV 4 HD³",
+      "poster": "http://32q0d.xyz/images/caze.png",
+      "background": "http://32q0d.xyz/images/caze.png",
+      "logo": "http://32q0d.xyz/images/caze.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_caze_tv_5_hd_http_minhamelhordns_vip_80_41625496_52949419_17",
+      "type": "tv",
+      "name": "Cazé TV 5 HD¹",
+      "poster": "http://32q0d.xyz/images/caze.png",
+      "background": "http://32q0d.xyz/images/caze.png",
+      "logo": "http://32q0d.xyz/images/caze.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_caze_tv_6_hd_http_minhamelhordns_vip_80_41625496_52949419_17",
+      "type": "tv",
+      "name": "Cazé TV 6 HD¹",
+      "poster": "http://32q0d.xyz/images/caze.png",
+      "background": "http://32q0d.xyz/images/caze.png",
+      "logo": "http://32q0d.xyz/images/caze.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_caze_tv_7_hd_http_minhamelhordns_vip_80_41625496_52949419_17",
+      "type": "tv",
+      "name": "Cazé TV 7 HD¹",
+      "poster": "http://32q0d.xyz/images/caze.png",
+      "background": "http://32q0d.xyz/images/caze.png",
+      "logo": "http://32q0d.xyz/images/caze.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_caze_tv_8_hd_http_minhamelhordns_vip_80_41625496_52949419_17",
+      "type": "tv",
+      "name": "Cazé TV 8 HD¹",
+      "poster": "http://32q0d.xyz/images/caze.png",
+      "background": "http://32q0d.xyz/images/caze.png",
+      "logo": "http://32q0d.xyz/images/caze.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_dazn_01_hd_http_minhamelhordns_vip_80_41625496_52949419_2344",
+      "type": "tv",
+      "name": "DAZN 01 HD",
+      "poster": "https://img.onetv.plus/icones_channels/DAZN.png",
+      "background": "https://img.onetv.plus/icones_channels/DAZN.png",
+      "logo": "https://img.onetv.plus/icones_channels/DAZN.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_dazn_02_hd_http_minhamelhordns_vip_80_41625496_52949419_2344",
+      "type": "tv",
+      "name": "DAZN 02 HD",
+      "poster": "https://img.onetv.plus/icones_channels/DAZN_2.png",
+      "background": "https://img.onetv.plus/icones_channels/DAZN_2.png",
+      "logo": "https://img.onetv.plus/icones_channels/DAZN_2.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_dazn_03_hd_http_minhamelhordns_vip_80_41625496_52949419_2345",
+      "type": "tv",
+      "name": "DAZN 03 HD",
+      "poster": "https://1000logos.net/wp-content/uploads/2024/10/DAZN-Logo-2016.png",
+      "background": "https://1000logos.net/wp-content/uploads/2024/10/DAZN-Logo-2016.png",
+      "logo": "https://1000logos.net/wp-content/uploads/2024/10/DAZN-Logo-2016.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_dazn_04_hd_http_minhamelhordns_vip_80_41625496_52949419_2345",
+      "type": "tv",
+      "name": "DAZN 04 HD",
+      "poster": "https://img.onetv.plus/icones_channels/DAZN_4.png",
+      "background": "https://img.onetv.plus/icones_channels/DAZN_4.png",
+      "logo": "https://img.onetv.plus/icones_channels/DAZN_4.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_dazn_05_hd_http_minhamelhordns_vip_80_41625496_52949419_2345",
+      "type": "tv",
+      "name": "DAZN 05 HD",
+      "poster": "https://img.onetv.plus/icones_channels/DAZN_5.png",
+      "background": "https://img.onetv.plus/icones_channels/DAZN_5.png",
+      "logo": "https://img.onetv.plus/icones_channels/DAZN_5.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_eleven_sports_1_sd_http_minhamelhordns_vip_80_41625496_52949",
+      "type": "tv",
+      "name": "Eleven Sports 1 SD",
+      "poster": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_1_PT.png",
+      "background": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_1_PT.png",
+      "logo": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_1_PT.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_eleven_sports_1_hd_http_minhamelhordns_vip_80_41625496_52949",
+      "type": "tv",
+      "name": "Eleven Sports 1 HD",
+      "poster": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_1_PT.png",
+      "background": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_1_PT.png",
+      "logo": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_1_PT.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_eleven_sports_2_sd_http_minhamelhordns_vip_80_41625496_52949",
+      "type": "tv",
+      "name": "Eleven Sports 2 SD",
+      "poster": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_2_PT.png",
+      "background": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_2_PT.png",
+      "logo": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_2_PT.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_eleven_sports_2_hd_http_minhamelhordns_vip_80_41625496_52949",
+      "type": "tv",
+      "name": "Eleven Sports 2 HD",
+      "poster": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_2_PT.png",
+      "background": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_2_PT.png",
+      "logo": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_2_PT.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_eleven_sports_3_sd_http_minhamelhordns_vip_80_41625496_52949",
+      "type": "tv",
+      "name": "Eleven Sports 3 SD",
+      "poster": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_3_PT.png",
+      "background": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_3_PT.png",
+      "logo": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_3_PT.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_eleven_sports_3_hd_http_minhamelhordns_vip_80_41625496_52949",
+      "type": "tv",
+      "name": "Eleven Sports 3 HD",
+      "poster": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_3_PT.png",
+      "background": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_3_PT.png",
+      "logo": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_3_PT.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_eleven_sports_4_sd_http_minhamelhordns_vip_80_41625496_52949",
+      "type": "tv",
+      "name": "Eleven Sports 4 SD",
+      "poster": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_4_PT.png",
+      "background": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_4_PT.png",
+      "logo": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_4_PT.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_eleven_sports_4_hd_http_minhamelhordns_vip_80_41625496_52949",
+      "type": "tv",
+      "name": "Eleven Sports 4 HD",
+      "poster": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_4_PT.png",
+      "background": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_4_PT.png",
+      "logo": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_4_PT.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_eleven_sports_5_sd_http_minhamelhordns_vip_80_41625496_52949",
+      "type": "tv",
+      "name": "Eleven Sports 5 SD",
+      "poster": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_5_PT.png",
+      "background": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_5_PT.png",
+      "logo": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_5_PT.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_eleven_sports_5_hd_http_minhamelhordns_vip_80_41625496_52949",
+      "type": "tv",
+      "name": "Eleven Sports 5 HD",
+      "poster": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_5_PT.png",
+      "background": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_5_PT.png",
+      "logo": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_5_PT.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_eleven_sports_6_sd_http_minhamelhordns_vip_80_41625496_52949",
+      "type": "tv",
+      "name": "Eleven Sports 6 SD",
+      "poster": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_6_PT.png",
+      "background": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_6_PT.png",
+      "logo": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_6_PT.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_eleven_sports_6_hd_http_minhamelhordns_vip_80_41625496_52949",
+      "type": "tv",
+      "name": "Eleven Sports 6 HD",
+      "poster": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_6_PT.png",
+      "background": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_6_PT.png",
+      "logo": "https://img.onetv.plus/icones_channels/ELEVEN_SPORTS_6_PT.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_combate_sd_http_minhamelhordns_vip_80_41625496_52949419_4380",
+      "type": "tv",
+      "name": "COMBATE SD",
+      "poster": "https://img.onetv.plus/icones_channels/COMBATE_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/COMBATE_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/COMBATE_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "UFC / Lutas"
+      ]
+    },
+    {
+      "id": "iracema_esportes_combate_hd_http_minhamelhordns_vip_80_41625496_52949419_4380",
+      "type": "tv",
+      "name": "COMBATE HD",
+      "poster": "https://img.onetv.plus/icones_channels/COMBATE_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/COMBATE_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/COMBATE_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "UFC / Lutas"
+      ]
+    },
+    {
+      "id": "iracema_esportes_combate_fhd_http_minhamelhordns_vip_80_41625496_52949419_438",
+      "type": "tv",
+      "name": "COMBATE FHD",
+      "poster": "https://img.onetv.plus/icones_channels/COMBATE_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/COMBATE_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/COMBATE_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "UFC / Lutas"
+      ]
+    },
+    {
+      "id": "iracema_esportes_combate_uhd_http_minhamelhordns_vip_80_41625496_52949419_809",
+      "type": "tv",
+      "name": "COMBATE UHD",
+      "poster": "https://img.onetv.plus/icones_channels/COMBATE_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/COMBATE_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/COMBATE_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "UFC / Lutas"
+      ]
+    },
+    {
+      "id": "iracema_esportes_ufc_paramount_1_hd_http_minhamelhordns_vip_80_41625496_52949",
+      "type": "tv",
+      "name": "UFC PARAMOUNT+ 1 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "UFC / Lutas"
+      ]
+    },
+    {
+      "id": "iracema_esportes_ufc_paramount_1_hd_http_minhamelhordns_vip_80_41625496_52949",
+      "type": "tv",
+      "name": "UFC PARAMOUNT+ 1 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "UFC / Lutas"
+      ]
+    },
+    {
+      "id": "iracema_esportes_ufc_paramount_1_hd_http_minhamelhordns_vip_80_41625496_52949",
+      "type": "tv",
+      "name": "UFC PARAMOUNT+ 1 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "UFC / Lutas"
+      ]
+    },
+    {
+      "id": "iracema_esportes_ufc_paramount_1_hd_http_minhamelhordns_vip_80_41625496_52949",
+      "type": "tv",
+      "name": "UFC PARAMOUNT+ 1 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "UFC / Lutas"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_sport_hd_1_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "NBA SPORT HD 1",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_sport_hd_2_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "NBA SPORT HD 2",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_tv_hd_1_http_minhamelhordns_vip_80_41625496_52949419_177",
+      "type": "tv",
+      "name": "NBA TV HD 1",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_tv_hd_2_http_minhamelhordns_vip_80_41625496_52949419_177",
+      "type": "tv",
+      "name": "NBA TV HD 2",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_1_hd_http_minhamelhordns_vip_80_41625496_52949419_174092",
+      "type": "tv",
+      "name": "MAX 1 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_1_hd_http_minhamelhordns_vip_80_41625496_52949419_177337",
+      "type": "tv",
+      "name": "MAX 1 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_1_hd_http_minhamelhordns_vip_80_41625496_52949419_177339",
+      "type": "tv",
+      "name": "MAX 1 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_1_hd_http_minhamelhordns_vip_80_41625496_52949419_177341",
+      "type": "tv",
+      "name": "MAX 1 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_2_hd_http_minhamelhordns_vip_80_41625496_52949419_174092",
+      "type": "tv",
+      "name": "MAX 2 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_2_hd_http_minhamelhordns_vip_80_41625496_52949419_177337",
+      "type": "tv",
+      "name": "MAX 2 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_2_hd_http_minhamelhordns_vip_80_41625496_52949419_177340",
+      "type": "tv",
+      "name": "MAX 2 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_2_hd_http_minhamelhordns_vip_80_41625496_52949419_177341",
+      "type": "tv",
+      "name": "MAX 2 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_3_hd_http_minhamelhordns_vip_80_41625496_52949419_174092",
+      "type": "tv",
+      "name": "MAX 3 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_3_hd_http_minhamelhordns_vip_80_41625496_52949419_177337",
+      "type": "tv",
+      "name": "MAX 3 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_3_hd_http_minhamelhordns_vip_80_41625496_52949419_177340",
+      "type": "tv",
+      "name": "MAX 3 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_3_hd_http_minhamelhordns_vip_80_41625496_52949419_177341",
+      "type": "tv",
+      "name": "MAX 3 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_4_hd_http_minhamelhordns_vip_80_41625496_52949419_174092",
+      "type": "tv",
+      "name": "MAX 4 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_4_hd_http_minhamelhordns_vip_80_41625496_52949419_177338",
+      "type": "tv",
+      "name": "MAX 4 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_4_hd_http_minhamelhordns_vip_80_41625496_52949419_177340",
+      "type": "tv",
+      "name": "MAX 4 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_4_hd_http_minhamelhordns_vip_80_41625496_52949419_177342",
+      "type": "tv",
+      "name": "MAX 4 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_5_hd_http_minhamelhordns_vip_80_41625496_52949419_174092",
+      "type": "tv",
+      "name": "MAX 5 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_5_hd_http_minhamelhordns_vip_80_41625496_52949419_177340",
+      "type": "tv",
+      "name": "MAX 5 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_5_hd_http_minhamelhordns_vip_80_41625496_52949419_177342",
+      "type": "tv",
+      "name": "MAX 5 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_6_hd_http_minhamelhordns_vip_80_41625496_52949419_174092",
+      "type": "tv",
+      "name": "MAX 6 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_6_hd_http_minhamelhordns_vip_80_41625496_52949419_177340",
+      "type": "tv",
+      "name": "MAX 6 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_6_hd_http_minhamelhordns_vip_80_41625496_52949419_177342",
+      "type": "tv",
+      "name": "MAX 6 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_7_hd_http_minhamelhordns_vip_80_41625496_52949419_174092",
+      "type": "tv",
+      "name": "MAX 7 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_7_hd_http_minhamelhordns_vip_80_41625496_52949419_177340",
+      "type": "tv",
+      "name": "MAX 7 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_7_hd_http_minhamelhordns_vip_80_41625496_52949419_177342",
+      "type": "tv",
+      "name": "MAX 7 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_8_hd_http_minhamelhordns_vip_80_41625496_52949419_174092",
+      "type": "tv",
+      "name": "MAX 8 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_8_hd_http_minhamelhordns_vip_80_41625496_52949419_177340",
+      "type": "tv",
+      "name": "MAX 8 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_8_hd_http_minhamelhordns_vip_80_41625496_52949419_177342",
+      "type": "tv",
+      "name": "MAX 8 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_9_hd_http_minhamelhordns_vip_80_41625496_52949419_174092",
+      "type": "tv",
+      "name": "MAX 9 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_9_hd_http_minhamelhordns_vip_80_41625496_52949419_177340",
+      "type": "tv",
+      "name": "MAX 9 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_9_hd_http_minhamelhordns_vip_80_41625496_52949419_177342",
+      "type": "tv",
+      "name": "MAX 9 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_10_hd_http_minhamelhordns_vip_80_41625496_52949419_17409",
+      "type": "tv",
+      "name": "MAX 10 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_10_hd_http_minhamelhordns_vip_80_41625496_52949419_17734",
+      "type": "tv",
+      "name": "MAX 10 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_10_hd_http_minhamelhordns_vip_80_41625496_52949419_17734",
+      "type": "tv",
+      "name": "MAX 10 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_11_hd_http_minhamelhordns_vip_80_41625496_52949419_17409",
+      "type": "tv",
+      "name": "MAX 11 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_11_hd_http_minhamelhordns_vip_80_41625496_52949419_17734",
+      "type": "tv",
+      "name": "MAX 11 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_11_hd_http_minhamelhordns_vip_80_41625496_52949419_17734",
+      "type": "tv",
+      "name": "MAX 11 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_12_hd_http_minhamelhordns_vip_80_41625496_52949419_17409",
+      "type": "tv",
+      "name": "MAX 12 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_12_hd_http_minhamelhordns_vip_80_41625496_52949419_17734",
+      "type": "tv",
+      "name": "MAX 12 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_12_hd_http_minhamelhordns_vip_80_41625496_52949419_17734",
+      "type": "tv",
+      "name": "MAX 12 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_13_hd_http_minhamelhordns_vip_80_41625496_52949419_17409",
+      "type": "tv",
+      "name": "MAX 13 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_13_hd_http_minhamelhordns_vip_80_41625496_52949419_17734",
+      "type": "tv",
+      "name": "MAX 13 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_14_hd_http_minhamelhordns_vip_80_41625496_52949419_17409",
+      "type": "tv",
+      "name": "MAX 14 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_14_hd_http_minhamelhordns_vip_80_41625496_52949419_17734",
+      "type": "tv",
+      "name": "MAX 14 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_15_hd_http_minhamelhordns_vip_80_41625496_52949419_17409",
+      "type": "tv",
+      "name": "MAX 15 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_15_hd_http_minhamelhordns_vip_80_41625496_52949419_17734",
+      "type": "tv",
+      "name": "MAX 15 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_16_hd_http_minhamelhordns_vip_80_41625496_52949419_17409",
+      "type": "tv",
+      "name": "MAX 16 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_16_hd_http_minhamelhordns_vip_80_41625496_52949419_17734",
+      "type": "tv",
+      "name": "MAX 16 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_17_hd_http_minhamelhordns_vip_80_41625496_52949419_17409",
+      "type": "tv",
+      "name": "MAX 17 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_17_hd_http_minhamelhordns_vip_80_41625496_52949419_17734",
+      "type": "tv",
+      "name": "MAX 17 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_18_hd_http_minhamelhordns_vip_80_41625496_52949419_17409",
+      "type": "tv",
+      "name": "MAX 18 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_max_18_hd_http_minhamelhordns_vip_80_41625496_52949419_17734",
+      "type": "tv",
+      "name": "MAX 18 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/HBO_MAX_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_8_sd_http_minhamelhordns_vip_80_41625496_52949419_1",
+      "type": "tv",
+      "name": "PREMIERE 8 SD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_8_hd_http_minhamelhordns_vip_80_41625496_52949419_1",
+      "type": "tv",
+      "name": "PREMIERE 8 HD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_8_fhd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "PREMIERE 8 FHD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_premiere_8_uhd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "PREMIERE 8 UHD",
+      "poster": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "background": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "logo": "https://img.onetv.plus/icones_channels/PREMIERE_CLUBES_1_HD.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nfl_tv_hd_http_minhamelhordns_vip_80_41625496_52949419_82909",
+      "type": "tv",
+      "name": "NFL TV HD",
+      "poster": "https://www.auvaromaia.com/wp-content/uploads/2025/09/NFL.png",
+      "background": "https://www.auvaromaia.com/wp-content/uploads/2025/09/NFL.png",
+      "logo": "https://www.auvaromaia.com/wp-content/uploads/2025/09/NFL.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nfl_tv_fhd_http_minhamelhordns_vip_80_41625496_52949419_1608",
+      "type": "tv",
+      "name": "NFL TV FHD",
+      "poster": "https://www.auvaromaia.com/wp-content/uploads/2025/09/NFL.png",
+      "background": "https://www.auvaromaia.com/wp-content/uploads/2025/09/NFL.png",
+      "logo": "https://www.auvaromaia.com/wp-content/uploads/2025/09/NFL.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_red_bull_tv_hd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "Red Bull TV HD",
+      "poster": "https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_0,y_0,h_733,w_1100/c_fill,w_900,h_600/bo_5px_solid_rgb:00000000/q_auto:best,f_auto/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv",
+      "background": "https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_0,y_0,h_733,w_1100/c_fill,w_900,h_600/bo_5px_solid_rgb:00000000/q_auto:best,f_auto/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv",
+      "logo": "https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_0,y_0,h_733,w_1100/c_fill,w_900,h_600/bo_5px_solid_rgb:00000000/q_auto:best,f_auto/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_red_bull_tv_fhd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "Red Bull TV FHD",
+      "poster": "https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_0,y_0,h_733,w_1100/c_fill,w_900,h_600/bo_5px_solid_rgb:00000000/q_auto:best,f_auto/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv",
+      "background": "https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_0,y_0,h_733,w_1100/c_fill,w_900,h_600/bo_5px_solid_rgb:00000000/q_auto:best,f_auto/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv",
+      "logo": "https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_0,y_0,h_733,w_1100/c_fill,w_900,h_600/bo_5px_solid_rgb:00000000/q_auto:best,f_auto/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_paramount_01_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "PARAMOUNT+ 01 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_paramount_01_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "PARAMOUNT+ 01 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_paramount_01_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "PARAMOUNT+ 01 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_paramount_01_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "PARAMOUNT+ 01 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_paramount_02_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "PARAMOUNT+ 02 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_paramount_02_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "PARAMOUNT+ 02 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_paramount_02_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "PARAMOUNT+ 02 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_paramount_02_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "PARAMOUNT+ 02 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_paramount_03_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "PARAMOUNT+ 03 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_paramount_03_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "PARAMOUNT+ 03 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_paramount_03_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "PARAMOUNT+ 03 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_paramount_03_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "PARAMOUNT+ 03 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_paramount_04_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "PARAMOUNT+ 04 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_paramount_04_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "PARAMOUNT+ 04 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_paramount_04_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "PARAMOUNT+ 04 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_paramount_04_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "PARAMOUNT+ 04 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_paramount_05_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "PARAMOUNT+ 05 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_paramount_06_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "PARAMOUNT+ 06 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "background": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "logo": "https://img.onetv.plus/icones_channels/Paramount+_1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportynet_01_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "SportyNet 01 HD¹",
+      "poster": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "background": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "logo": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportynet_01_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "SportyNet 01 HD²",
+      "poster": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "background": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "logo": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportynet_01_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "SportyNet 01 HD³",
+      "poster": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "background": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "logo": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportynet_01_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "SportyNet 01 HD⁴",
+      "poster": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "background": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "logo": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportynet_02_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "SportyNet 02 HD¹",
+      "poster": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "background": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "logo": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportynet_02_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "SportyNet 02 HD²",
+      "poster": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "background": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "logo": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportynet_02_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "SportyNet 02 HD³",
+      "poster": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "background": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "logo": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportynet_02_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "SportyNet 02 HD⁴",
+      "poster": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "background": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "logo": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportynet_03_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "SportyNet 03 HD¹",
+      "poster": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "background": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "logo": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportynet_03_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "SportyNet 03 HD²",
+      "poster": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "background": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "logo": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportynet_03_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "SportyNet 03 HD³",
+      "poster": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "background": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "logo": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportynet_03_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "SportyNet 03 HD⁴",
+      "poster": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "background": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "logo": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportynet_04_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "SportyNet 04 HD¹",
+      "poster": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "background": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "logo": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportynet_04_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "SportyNet 04 HD²",
+      "poster": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "background": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "logo": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportynet_04_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "SportyNet 04 HD³",
+      "poster": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "background": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "logo": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportynet_05_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "SportyNet 05 HD¹",
+      "poster": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "background": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "logo": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sportynet_06_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "SportyNet 06 HD¹",
+      "poster": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "background": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "logo": "https://skycms.s3.amazonaws.com/images/37907079/sky-sportynetplus.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_01_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 01 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_01_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 01 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_01_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 01 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_01_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 01 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_02_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 02 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_02_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 02 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_02_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 02 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_02_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 02 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_03_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 03 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_03_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 03 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_03_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 03 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_03_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 03 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_04_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 04 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_04_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 04 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_04_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 04 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_04_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 04 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_05_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 05 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_05_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 05 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_05_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 05 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_05_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 05 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_06_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 06 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_06_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 06 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_06_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 06 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_06_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 06 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_07_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 07 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_07_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 07 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_07_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 07 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_07_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 07 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_08_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 08 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_08_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 08 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_08_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 08 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_08_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 08 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_09_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 09 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_09_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 09 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_09_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 09 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_09_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 09 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_10_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 10 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_10_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 10 HD²",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_10_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 10 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_10_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 10 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_11_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 11 HD¹",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_11_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 11 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_11_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 11 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_12_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 12 HD³",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_12_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 12 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_nba_league_pass_13_hd_http_minhamelhordns_vip_80_41625496_52",
+      "type": "tv",
+      "name": "NBA LEAGUE PASS 13 HD⁴",
+      "poster": "https://img.onetv.plus/icones_channels/NBA.png",
+      "background": "https://img.onetv.plus/icones_channels/NBA.png",
+      "logo": "https://img.onetv.plus/icones_channels/NBA.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Basquete / NFL"
+      ]
+    },
+    {
+      "id": "iracema_esportes_fuel_tv_hd_http_minhamelhordns_vip_80_41625496_52949419_2053",
+      "type": "tv",
+      "name": "FUEL TV HD",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLHCIJXYPSPASCfSb8PQmROqQDpsuumt61Q&s",
+      "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLHCIJXYPSPASCfSb8PQmROqQDpsuumt61Q&s",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLHCIJXYPSPASCfSb8PQmROqQDpsuumt61Q&s",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_fuel_tv_fhd_http_minhamelhordns_vip_80_41625496_52949419_205",
+      "type": "tv",
+      "name": "FUEL TV FHD",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLHCIJXYPSPASCfSb8PQmROqQDpsuumt61Q&s",
+      "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLHCIJXYPSPASCfSb8PQmROqQDpsuumt61Q&s",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLHCIJXYPSPASCfSb8PQmROqQDpsuumt61Q&s",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_caze_tv_5_hd_http_minhamelhordns_vip_80_41625496_52949419_20",
+      "type": "tv",
+      "name": "Cazé TV 5 HD³",
+      "poster": "http://32q0d.xyz/images/caze.png",
+      "background": "http://32q0d.xyz/images/caze.png",
+      "logo": "http://32q0d.xyz/images/caze.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sport_tv_fhd_http_minhamelhordns_vip_80_41625496_52949419_23",
+      "type": "tv",
+      "name": "Sport TV + FHD",
+      "poster": "http://top-logos.xyz/pt/sportv.png",
+      "background": "http://top-logos.xyz/pt/sportv.png",
+      "logo": "http://top-logos.xyz/pt/sportv.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sport_tv_hd_http_minhamelhordns_vip_80_41625496_52949419_234",
+      "type": "tv",
+      "name": "Sport TV + HD",
+      "poster": "http://top-logos.xyz/pt/sportv.png",
+      "background": "http://top-logos.xyz/pt/sportv.png",
+      "logo": "http://top-logos.xyz/pt/sportv.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sport_tv_01_fhd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "Sport TV 01 FHD",
+      "poster": "http://top-logos.xyz/pt/sportv1.png",
+      "background": "http://top-logos.xyz/pt/sportv1.png",
+      "logo": "http://top-logos.xyz/pt/sportv1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sport_tv_01_hd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "Sport TV 01 HD",
+      "poster": "http://top-logos.xyz/pt/sportv1.png",
+      "background": "http://top-logos.xyz/pt/sportv1.png",
+      "logo": "http://top-logos.xyz/pt/sportv1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sport_tv_02_fhd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "Sport TV 02 FHD",
+      "poster": "http://top-logos.xyz/pt/sportv2.png",
+      "background": "http://top-logos.xyz/pt/sportv2.png",
+      "logo": "http://top-logos.xyz/pt/sportv2.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sport_tv_02_hd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "Sport TV 02 HD",
+      "poster": "http://top-logos.xyz/pt/sportv2.png",
+      "background": "http://top-logos.xyz/pt/sportv2.png",
+      "logo": "http://top-logos.xyz/pt/sportv2.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sport_tv_03_fhd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "Sport TV 03 FHD",
+      "poster": "http://top-logos.xyz/pt/sportv3.png",
+      "background": "http://top-logos.xyz/pt/sportv3.png",
+      "logo": "http://top-logos.xyz/pt/sportv3.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sport_tv_03_hd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "Sport TV 03 HD",
+      "poster": "http://top-logos.xyz/pt/sportv3.png",
+      "background": "http://top-logos.xyz/pt/sportv3.png",
+      "logo": "http://top-logos.xyz/pt/sportv3.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sport_tv_04_fhd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "Sport TV 04 FHD",
+      "poster": "http://top-logos.xyz/pt/sportv4.png",
+      "background": "http://top-logos.xyz/pt/sportv4.png",
+      "logo": "http://top-logos.xyz/pt/sportv4.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sport_tv_04_hd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "Sport TV 04 HD",
+      "poster": "http://top-logos.xyz/pt/sportv4.png",
+      "background": "http://top-logos.xyz/pt/sportv4.png",
+      "logo": "http://top-logos.xyz/pt/sportv4.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sport_tv_05_fhd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "Sport TV 05 FHD",
+      "poster": "http://top-logos.xyz/pt/sportv5.png",
+      "background": "http://top-logos.xyz/pt/sportv5.png",
+      "logo": "http://top-logos.xyz/pt/sportv5.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sport_tv_05_hd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "Sport TV 05 HD",
+      "poster": "http://top-logos.xyz/pt/sportv5.png",
+      "background": "http://top-logos.xyz/pt/sportv5.png",
+      "logo": "http://top-logos.xyz/pt/sportv5.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_sport_tv_06_hd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "Sport TV 06 HD",
+      "poster": "http://top-logos.xyz/pt/sportv6.png",
+      "background": "http://top-logos.xyz/pt/sportv6.png",
+      "logo": "http://top-logos.xyz/pt/sportv6.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Futebol"
+      ]
+    },
+    {
+      "id": "iracema_esportes_dazn_01_hd_http_minhamelhordns_vip_80_41625496_52949419_2341",
+      "type": "tv",
+      "name": "Dazn 01 HD",
+      "poster": "http://top-logos.xyz/pt/eleven5.png",
+      "background": "http://top-logos.xyz/pt/eleven5.png",
+      "logo": "http://top-logos.xyz/pt/eleven5.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_dazn_02_hd_http_minhamelhordns_vip_80_41625496_52949419_2341",
+      "type": "tv",
+      "name": "Dazn 02 HD",
+      "poster": "http://top-logos.xyz/pt/eleven5.png",
+      "background": "http://top-logos.xyz/pt/eleven5.png",
+      "logo": "http://top-logos.xyz/pt/eleven5.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_dazn_03_hd_http_minhamelhordns_vip_80_41625496_52949419_2341",
+      "type": "tv",
+      "name": "Dazn 03 HD",
+      "poster": "http://top-logos.xyz/pt/eleven5.png",
+      "background": "http://top-logos.xyz/pt/eleven5.png",
+      "logo": "http://top-logos.xyz/pt/eleven5.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_dazn_04_hd_http_minhamelhordns_vip_80_41625496_52949419_2341",
+      "type": "tv",
+      "name": "Dazn 04 HD",
+      "poster": "http://top-logos.xyz/pt/eleven1.png",
+      "background": "http://top-logos.xyz/pt/eleven1.png",
+      "logo": "http://top-logos.xyz/pt/eleven1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_dazn_05_hd_http_minhamelhordns_vip_80_41625496_52949419_2341",
+      "type": "tv",
+      "name": "Dazn 05 HD",
+      "poster": "http://top-logos.xyz/pt/eleven1.png",
+      "background": "http://top-logos.xyz/pt/eleven1.png",
+      "logo": "http://top-logos.xyz/pt/eleven1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_eurosport_01_fhd_http_minhamelhordns_vip_80_41625496_5294941",
+      "type": "tv",
+      "name": "Eurosport 01 FHD",
+      "poster": "http://top-logos.xyz/pt/eurosport1.png",
+      "background": "http://top-logos.xyz/pt/eurosport1.png",
+      "logo": "http://top-logos.xyz/pt/eurosport1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_eurosport_01_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "Eurosport 01 HD",
+      "poster": "http://top-logos.xyz/pt/eurosport1.png",
+      "background": "http://top-logos.xyz/pt/eurosport1.png",
+      "logo": "http://top-logos.xyz/pt/eurosport1.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_eurosport_02_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "Eurosport 02 HD",
+      "poster": "http://top-logos.xyz/pt/eurosport2.png",
+      "background": "http://top-logos.xyz/pt/eurosport2.png",
+      "logo": "http://top-logos.xyz/pt/eurosport2.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_kombat_sport_hd_http_minhamelhordns_vip_80_41625496_52949419",
+      "type": "tv",
+      "name": "Kombat Sport HD",
+      "poster": "https://i.imgur.com/Vey9HWZ.png",
+      "background": "https://i.imgur.com/Vey9HWZ.png",
+      "logo": "https://i.imgur.com/Vey9HWZ.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    },
+    {
+      "id": "iracema_esportes_red_bull_tv_hd_http_minhamelhordns_vip_80_41625496_52949419_",
+      "type": "tv",
+      "name": "Red Bull TV HD",
+      "poster": "http://top-logos.xyz/pt/redbulltv.png",
+      "background": "http://top-logos.xyz/pt/redbulltv.png",
+      "logo": "http://top-logos.xyz/pt/redbulltv.png",
+      "posterShape": "square",
+      "description": "futufc-tv ao vivo",
+      "genres": [
+        "Canais Esportivos"
+      ]
+    }
+  ]
+}

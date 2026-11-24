@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "name": "FUTUFC Canais [UHD]",
+      "title": "PREMIERE 4 UHD",
+      "url": "http://minhamelhordns.vip:80/41625496/52949419/809237"
+    },
+    {
+      "name": "FUTUFC Canais [FHD]",
+      "title": "PREMIERE 4 FHD",
+      "url": "http://minhamelhordns.vip:80/41625496/52949419/236260"
+    },
+    {
+      "name": "FUTUFC Canais [HD]",
+      "title": "PREMIERE 4 HD",
+      "url": "http://minhamelhordns.vip:80/41625496/52949419/236262"
+    },
+    {
+      "name": "FUTUFC Canais [SD]",
+      "title": "PREMIERE 4 SD",
+      "url": "http://minhamelhordns.vip:80/41625496/52949419/236264"
+    }
+  ]
+}

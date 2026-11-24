@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "name": "FUTUFC Canais [UHD]",
+      "title": "SporTV 2 UHD",
+      "url": "http://minhamelhordns.vip:80/41625496/52949419/809248"
+    },
+    {
+      "name": "FUTUFC Canais [FHD]",
+      "title": "SporTV 2 FHD",
+      "url": "http://minhamelhordns.vip:80/41625496/52949419/236290"
+    },
+    {
+      "name": "FUTUFC Canais [HD]",
+      "title": "SporTV 2 HD",
+      "url": "http://minhamelhordns.vip:80/41625496/52949419/236292"
+    },
+    {
+      "name": "FUTUFC Canais [SD]",
+      "title": "SporTV 2 SD",
+      "url": "http://minhamelhordns.vip:80/41625496/52949419/236294"
+    }
+  ]
+}

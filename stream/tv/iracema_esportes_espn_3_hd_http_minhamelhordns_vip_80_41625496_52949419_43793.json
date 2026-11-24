@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "name": "FUTUFC Canais [UHD]",
+      "title": "ESPN 3 UHD",
+      "url": "http://minhamelhordns.vip:80/41625496/52949419/809198"
+    },
+    {
+      "name": "FUTUFC Canais [FHD]",
+      "title": "ESPN 3 FHD",
+      "url": "http://minhamelhordns.vip:80/41625496/52949419/437930"
+    },
+    {
+      "name": "FUTUFC Canais [HD]",
+      "title": "ESPN 3 HD",
+      "url": "http://minhamelhordns.vip:80/41625496/52949419/437932"
+    },
+    {
+      "name": "FUTUFC Canais [SD]",
+      "title": "ESPN 3 SD",
+      "url": "http://minhamelhordns.vip:80/41625496/52949419/437934"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "org.iracema.esportes",
+  "version": "1.0.0",
+  "name": "FUTUFC Canais",
+  "description": "futufc-tv ao vivo",
+  "resources": [
+    "catalog",
+    "stream"
+  ],
+  "types": [
+    "tv"
+  ],
+  "idPrefixes": [
+    "iracema_esportes_"
+  ],
+  "catalogs": [
+    {
+      "type": "tv",
+      "id": "iracema_esportes_tv",
+      "name": "FUTUFC Canais"
+    }
+  ]
+}
